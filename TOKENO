@@ -185,8 +185,8 @@ import "./ERC20.sol";
  */
 }contract SimpleToken is StandardToken {
 
-  string public name = "SimpleToken";
-  string public symbol = "SIM";
+  string public name = "musti";
+  string public symbol = "mus";
   uint256 public decimals = 18;
   uint256 public INITIAL_SUPPLY = 10000;
 
